@@ -1,1 +1,3 @@
-# CPE-301-FInal-project-Annika-and-Jordan
+# CPE 301 Final Project
+Jordan Pache and Annika Valdez
+Group Name: Starbursts
